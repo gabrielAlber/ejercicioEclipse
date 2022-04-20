@@ -3,7 +3,7 @@ package paquete;
 public class Hola {
 	public static void main(String[] args) {
 		System.out.println("Holamundo");
-		System.out.println("QuÃ© tal?");
-		System.out.println("Bien");
+		System.out.println("Qué tal?");
+		System.out.println("Si, muy bien");
 	}
 }
